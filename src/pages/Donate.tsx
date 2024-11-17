@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { Card } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
-import { Heart, Book, Stethoscope, Users, ArrowRight } from 'lucide-react';
+import { Heart, Book, Stethoscope, Users} from 'lucide-react';
 
 const Donate = () => {
   const causes = [
